@@ -1,0 +1,61 @@
+
+:root{
+	--primeira-cor: #200A3E;
+	--segunda-cor: #E8222D;
+	--terceira-cor: #629460;
+	--quarta-cor: #FF82A9;
+}
+body{
+	background-color:white;
+	margin: center;
+	padding: center;
+}
+
+
+main{
+	background-color:#e9e0d6;
+	margin: auto;
+}
+
+.main{
+	margin:center;
+	text-align: center;
+}
+
+.btn{
+	border: none;
+	border-radius: 20px;
+	color: white;
+	margin: 10px;
+	font-size: 20px;
+	width: 250px;
+	height:250px;
+}
+
+.btn-1{
+	background-color: var(--primeira-cor);
+}
+
+.btn-2{
+	background-color: var(--segunda-cor);
+}
+
+.btn-3{
+	background-color: var(--terceira-cor);
+}
+
+.btn-4{
+	background-color: var(--quarta-cor);
+}
+
+.btn-fechar-mensagem{
+	background-color: #2BDE73;
+	width: 250px;
+	height:250px;
+	border-radius: 20px;
+	color: white;
+	margin: 10px;
+	margin:center;
+	text-align: center;
+	margin-top: 125px;
+}
